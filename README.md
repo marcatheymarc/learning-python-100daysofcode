@@ -50,3 +50,30 @@ Now I'm all excited for tomorrow! Very happy with something though:
 Repeating this 5 days only 19 more times will be an absolute treat! Can't wait :D
 
 #########################################
+
+**Day 6**
+It was an interesting day! And happily, although I did feel challenged; I ended up doing very well on most exercises. We used the reeborg website to do a few simple loops and make the robot either follow a defined path; or define specs that would allow the robot to make its way to a designated target area. It all went super well up until the final exercise; that exercise being "Getting Reeborg out of a Maze". The solution I had worked alright; but required about 30% more code than the teacher's one. Breaking down the conditions was exhausting and I ended up writing about 6-7 different ones; when the suggested result had about 3.
+
+I'm leaning towards wanting to improve my critical thinking alongside the class. Not sure where I'll find resources but I'm certain a quick search will find a few things to help me get started. I didn't save the code for Reeborg given that it was all integrated in the platform; And the standalone code would be quite useless without the application.
+
+#########################################
+
+**Day 7**
+Well hot damn! Completing Day 7 was quite satisfying, I'm officially one week into this and love it. I feel challenged, but am still glad I've been able to do full days back to back instead of splitting some over 2.
+
+I feel as though the class I took isn't exactly advertising itself fully truly. The curriculum suggests you can "Complete a day within 2 hours"; but if you have to think about the solutions, are uncertain how some things work, need to search online to find some answers - I've found most days to take me around 3 hours, sometimes more. I'm glad I get to work from home, as this would otherwise be quite challenging. There's also a few times where the instructor mentions "in case you don't understand this concept very well yet, go back to a previous lecture"; without actually specifying which lecture would be beneficial in that particular case.
+
+Feeling as though I'll have to redo the beginner part in order to have a more concrete understanding of it all. I've also been thinking about finding a mentor for this; I'll have to scour a few different places and ask around if anyone would be willing to help me on my coding journey.
+
+We made a Hangman game, which was pretty fun! and I was happy to see that sometimes, my little tired brain wakes up and finds the right answers! The final errors in my code were due to a few incorrect indents; once I had changed those; everything worked out perfectly. I did want save the code, but it relied on 2 files created by the teacher and this was all done in replit; so it wouldn't be possible to load the modules on a standalone coding device, unless remade.
+
+On a more fun side! I've been a lot on r/unixporn (in case you read this and aren't in tech, this refers to good looking computer interfaces, nothing to do with actual porn) and feel quite motivated to at least set up a VM and see how I can get acquainted with customization. From a lot of the posts I saw, Arch seems to be the way to go so, I guess we'll see what's what!
+
+#########################################
+
+**Day 8**
+![diving_in](https://user-images.githubusercontent.com/91683428/136390345-57cb92ea-ba57-42b0-9757-8c49bb918722.gif)
+
+Some days, that's what it feels like! But hey he who doesn't dive in head first will never learn; albeit sometimes painfully! Wracking my brain and working everything out has been great so far, and I'm glad I'm feeling very motivated. Today, tackling Day 8! Getting joyously close to Day 10, which will signify I'll be 10% of the way through! Hopefully I still feel comfortable enough to do each day in sequence, but I'm ok knowing I might need to go back from the start and revise a few key things.
+
+In any case, should be fun! I'll update this log once I've done the course
