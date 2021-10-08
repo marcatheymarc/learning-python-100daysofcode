@@ -78,4 +78,19 @@ Weeeeeeeeee
 
 Some days, that's what it feels like! But hey he who doesn't dive in head first will never learn; albeit sometimes painfully! Wracking my brain and working everything out has been great so far, and I'm glad I'm feeling very motivated. Today, tackling Day 8! Getting joyously close to Day 10, which will signify I'll be 10% of the way through! Hopefully I still feel comfortable enough to do each day in sequence, but I'm ok knowing I might need to go back from the start and revise a few key things.
 
-In any case, should be fun! I'll update this log once I've done the course
+In any case, should be fun! I'll update this log once I've done the course.
+
+Aaaalrighty! So, obviously had to have a very busy day and didn't completely finish the Day 8 Module on Day 8, but I did complete it early in the morning of Day 9. I was pretty happy with having that little rest, it made solving the problem that much simpler somehow... Like the information had to "sink in" overnight.
+
+The day's project was a Caesar Cipher! In case you don't know what that is, it's like the little cylinder in The Da Vinci Code with all letters of the alphabet, and you shift them to encrypt a message. Here's the link to the final project; Enjoy!
+
+https://replit.com/@marcatheymarc/My-caesar-cipher-Day-8-project
+
+I started Day 9, I'll open the entry below to track the progress.
+
+#########################################
+
+**Day 9**
+
+Dictionnaries and Nesting
+
