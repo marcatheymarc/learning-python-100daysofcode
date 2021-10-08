@@ -72,6 +72,8 @@ On a more fun side! I've been a lot on r/unixporn (in case you read this and are
 #########################################
 
 **Day 8**
+Weeeeeeeeee
+
 ![diving_in](https://user-images.githubusercontent.com/91683428/136390345-57cb92ea-ba57-42b0-9757-8c49bb918722.gif)
 
 Some days, that's what it feels like! But hey he who doesn't dive in head first will never learn; albeit sometimes painfully! Wracking my brain and working everything out has been great so far, and I'm glad I'm feeling very motivated. Today, tackling Day 8! Getting joyously close to Day 10, which will signify I'll be 10% of the way through! Hopefully I still feel comfortable enough to do each day in sequence, but I'm ok knowing I might need to go back from the start and revise a few key things.
