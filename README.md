@@ -90,7 +90,27 @@ I started Day 9, I'll open the entry below to track the progress.
 
 #########################################
 
-**Day 9**
+**Day 9** Dictionnaries and Nesting
 
-Dictionnaries and Nesting
+Today we made a secret auction program; Wasn't the most fun of them but I can appreciate the necessity of it. The class helped me understand the use of dictionaries and their indexes/ how to return an output based on values. The principle is rather simple, dictionaries are defined by squiggly brackets {} and within any given dictionary is a key and a value defined as follows:
+
+my_dictionary = {
+  <"Key": Value,>
+}
+
+dictionaries can start off blank and be filled in based on user inputs. I'll have to revise this section to feel more at ease with it.
+
+**Day 10** Functions with Outputs
+
+So today was interesting; and more comfortable than previous days. I gave myself a day off this weekend because it's what made sense. I get that coding 100 days in a row will create a habit; but I certainly don't think that taking a day off will ruin this. I decided to commit to this and I'm following through at a pace I can.
+
+In lieu of doing the full class, I simply did a bit of time on the "SoloLearn" application to learn python; it felt more relaxing and I feel like I would greatly gain from varying sources of knowledge.
+
+In any case! We made a calculator today (big wow!). The project was obviously simple enough and we needed to access a created dictionary to print a particular symbol that would trigger a specific function. The idea here was really to understand "outputs" and reusing them; e.g. using the answer to the previous equation for a following equation.
+
+Tomorrow we're set to do the first "capstone" project; which should call to all the material I've learned over the past 10 days. I'm a little uncertain on how it'll go... I know I've been doing well enough; but there also seems to be key principles that I'm missing out on. The project itself is BlackJack; and depending on how it goes, I might just go back to Day 1 and revise everything to make sure it's well sunken in.
+
+In any case, should be fun!
+
+#########################################
 
