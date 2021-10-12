@@ -100,6 +100,8 @@ my_dictionary = {
 
 dictionaries can start off blank and be filled in based on user inputs. I'll have to revise this section to feel more at ease with it.
 
+#########################################
+
 **Day 10** Functions with Outputs
 
 So today was interesting; and more comfortable than previous days. I gave myself a day off this weekend because it's what made sense. I get that coding 100 days in a row will create a habit; but I certainly don't think that taking a day off will ruin this. I decided to commit to this and I'm following through at a pace I can.
